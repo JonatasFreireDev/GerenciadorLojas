@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Modules\Base - Cópia\Interface\" />
+    <Folder Include="Modules\Base\Interface\" />
+    <Folder Include="Modules\Supermarket\DTOS\" />
+    <Folder Include="Modules\Supermarket\Interface\" />
+    <Folder Include="Modules\Supermarket\Repositories\" />
+    <Folder Include="Modules\Supermarket\Services\" />
+    <Folder Include="Modules\Base - Cópia\DTOS\" />
+    <Folder Include="Modules\Base - Cópia\Models\" />
+    <Folder Include="Modules\Base - Cópia\Repositories\" />
+    <Folder Include="Modules\Base - Cópia\Services\" />
+    <Folder Include="Modules\Base\DTOS\" />
+    <Folder Include="Modules\Base\Repositories\" />
+    <Folder Include="Modules\Base\Services\" />
+    <Folder Include="Modules\Users\DTOS\" />
+    <Folder Include="Modules\Users\Interface\" />
+    <Folder Include="Modules\Users\Services\" />
+    <Folder Include="Modules\Users\Repositories\" />
+    <Folder Include="Shared\" />
+    <Folder Include="Config\" />
+    <Folder Include="Database\" />
+  </ItemGroup>
+
+</Project>
